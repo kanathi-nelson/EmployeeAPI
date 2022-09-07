@@ -1,0 +1,12 @@
+R:\Pers\Interviews\EmployeeAPI.Data\bin\Debug\net6.0\EmployeeAPI.Data.deps.json
+R:\Pers\Interviews\EmployeeAPI.Data\bin\Debug\net6.0\EmployeeAPI.Data.dll
+R:\Pers\Interviews\EmployeeAPI.Data\bin\Debug\net6.0\EmployeeAPI.Data.pdb
+R:\Pers\Interviews\EmployeeAPI.Data\obj\Debug\net6.0\EmployeeAPI.Data.csproj.AssemblyReference.cache
+R:\Pers\Interviews\EmployeeAPI.Data\obj\Debug\net6.0\EmployeeAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+R:\Pers\Interviews\EmployeeAPI.Data\obj\Debug\net6.0\EmployeeAPI.Data.AssemblyInfoInputs.cache
+R:\Pers\Interviews\EmployeeAPI.Data\obj\Debug\net6.0\EmployeeAPI.Data.AssemblyInfo.cs
+R:\Pers\Interviews\EmployeeAPI.Data\obj\Debug\net6.0\EmployeeAPI.Data.csproj.CoreCompileInputs.cache
+R:\Pers\Interviews\EmployeeAPI.Data\obj\Debug\net6.0\EmployeeAPI.Data.dll
+R:\Pers\Interviews\EmployeeAPI.Data\obj\Debug\net6.0\refint\EmployeeAPI.Data.dll
+R:\Pers\Interviews\EmployeeAPI.Data\obj\Debug\net6.0\EmployeeAPI.Data.pdb
+R:\Pers\Interviews\EmployeeAPI.Data\obj\Debug\net6.0\ref\EmployeeAPI.Data.dll

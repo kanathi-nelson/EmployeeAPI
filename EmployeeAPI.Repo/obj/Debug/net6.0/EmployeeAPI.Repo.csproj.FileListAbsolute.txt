@@ -1,0 +1,15 @@
+R:\Pers\Interviews\EmployeeAPI.Repo\bin\Debug\net6.0\EmployeeAPI.Repo.deps.json
+R:\Pers\Interviews\EmployeeAPI.Repo\bin\Debug\net6.0\EmployeeAPI.Repo.dll
+R:\Pers\Interviews\EmployeeAPI.Repo\bin\Debug\net6.0\EmployeeAPI.Repo.pdb
+R:\Pers\Interviews\EmployeeAPI.Repo\bin\Debug\net6.0\EmployeeAPI.Data.dll
+R:\Pers\Interviews\EmployeeAPI.Repo\bin\Debug\net6.0\EmployeeAPI.Data.pdb
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\EmployeeAPI.Repo.csproj.AssemblyReference.cache
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\EmployeeAPI.Repo.GeneratedMSBuildEditorConfig.editorconfig
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\EmployeeAPI.Repo.AssemblyInfoInputs.cache
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\EmployeeAPI.Repo.AssemblyInfo.cs
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\EmployeeAPI.Repo.csproj.CoreCompileInputs.cache
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\EmployeeAPI.Repo.csproj.CopyComplete
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\EmployeeAPI.Repo.dll
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\refint\EmployeeAPI.Repo.dll
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\EmployeeAPI.Repo.pdb
+R:\Pers\Interviews\EmployeeAPI.Repo\obj\Debug\net6.0\ref\EmployeeAPI.Repo.dll
